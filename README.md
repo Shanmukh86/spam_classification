@@ -1,6 +1,6 @@
 # 📧 Spam Email Classification using Machine Learning  
 
-Hi, I’m Ajay 👋  
+Hi, I’m Shanmukh 👋  
 This repository contains my **Spam Email Classification project**, where I built and compared multiple ML models to detect whether an email is **Spam or Not Spam (Ham)**.  
 
 This project was inspired by the **CampusX Spam Classification project**, but I extended it with my own feature engineering, model comparison, and performance benchmarking.  
@@ -54,18 +54,11 @@ Email spam is a huge problem, with billions of unwanted emails sent daily. To ta
 - Train on larger, real-world datasets (Enron, SpamAssassin).  
 
 ---
-## 📬 Connect with Me
 
-LinkedIn: linkedin.com/in/budida-ajay
-
-GitHub: github.com/ajay9704
-
-
-----
 ## 📌 How to Run  
 ```bash
 # Clone the repository
-git clone https://github.com/ajay9704/spam-classification.git
+git clone https://github.com/Shanmukh86/spam-classification.git
 
 # Navigate into the project
 cd spam-classification
