@@ -30,7 +30,7 @@ Email spam is a huge problem, with billions of unwanted emails sent daily. To ta
 
 | Model              | Accuracy | Precision | Recall | F1-Score |
 |--------------------|----------|-----------|--------|----------|
-| Naive Bayes        | 94.10%   | 100%      | 92%    | 95.8%    |
+| Naive Bayes        | 94.10%   | 98%      | 92%    | 95.8%    |
 | Random Forest      | 96.8%    | 97%       | 96%    | 96.5%    |
 | Extra Trees        | 97.2%    | 97%       | 97%    | 97%      |
 | **XGBoost (Final)**| **98.3%**| **98%**   | **98%**| **98%**  |
